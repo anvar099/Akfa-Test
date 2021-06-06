@@ -1,0 +1,14 @@
+.border{
+  border-left: 1px solid #727c89;
+  border-right: 1px solid #272a2e;
+  height: 336px;
+  position: absolute;
+  margin-left: -55px;
+}
+.border-long{
+  position: absolute;
+  border-left: 1px solid #2a2d30;
+  border-right: 1px solid #313943;
+  height: 600px;
+  margin-left: -20px;
+}
